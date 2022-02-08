@@ -1,0 +1,14 @@
+,customer_id,customer_name,addresss,banking_type_dc,account_number,joint_holder,account_type,time_key
+1,3584692,Mathew    ,"AFAF,AFADF,GGG",BNK       ,2524646,test11@@test21@@test31                                                                              ,ELITE     ,2020-01-01
+3,3584692,Mathew    ,"AFAF,AFADF,GGG",BNK       ,1123445,test11@@test21@@test31                                                                              ,CORPORATE ,2020-01-03
+7,3584692,Mathew    ,"AFAF,AFADF,GGG",BNK       ,1123445,test11@@test21@@test31                                                                              ,ELITE     ,2020-01-03
+11,3584692,Mathew    ,"AFAF,AFADF,GGG",BNK       ,1123445,test11@@test21@@test31                                                                              ,CURRENT   ,2020-01-03
+0,3584685,Aman      ,",DFDF,DSFF",BNK       ,2132433,test122                                                                                             ,CURRENT   ,2020-01-01
+4,3584685,Aman      ,",DFDF,DSFF",BNK       ,2132433,test122                                                                                             ,SAVINGS   ,2020-01-01
+8,3584685,Aman      ,",DFDF,DSFF",BNK       ,2132433,test122                                                                                             ,CORPORATE ,2020-01-01
+12,3584685,Aman      ,",DFDF,DSFF",BNK       ,2132433,test122                                                                                             ,ELITE     ,2020-01-01
+5,3584678,Anu       ,"ADAF,,FDAF",BNK       ,2524643,test222                                                                                             ,CURRENT   ,2020-01-04
+9,3584678,Anu       ,"ADAF,,FDAF",BNK       ,2524643,test222                                                                                             ,SAVINGS   ,2020-01-04
+2,3584671,Ananya    ,"AFDAF,ADFF,ER3F",BNK       ,1123445,test322                                                                                             ,CORPORATE ,2020-01-01
+6,3584671,Ananya    ,"AFDAF,ADFF,ER3F",BNK       ,1123445,test322                                                                                             ,ELITE     ,2020-01-01
+10,3584671,Ananya    ,"AFDAF,ADFF,ER3F",BNK       ,1123445,test322                                                                                             ,CURRENT   ,2020-01-01

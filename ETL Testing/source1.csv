@@ -1,0 +1,7 @@
+,customer_id,customer_name,address,banking_type,account_number,joint_holder,account_type,time_key,Comments
+0,3584685,Aman,",DFDF,DSFF",BNK,2132433,test122,CURRENT,2020-01-01,Affected columns: 'address'
+1,3584685,Aman,",DFDF,DSFF",BNK,2132433,test122,SAVINGS,2020-01-01,Affected columns: 'address'
+2,3584678,Anu,"ADAF,,FDAF",BNK,2524643,test222,CURRENT,2020-01-04,Affected columns: 'address'
+3,3584685,Aman,",DFDF,DSFF",BNK,2132433,test122,CORPORATE,2020-01-01,Affected columns: 'address'
+4,3584678,Anu,"ADAF,,FDAF",BNK,2524643,test222,SAVINGS,2020-01-04,Affected columns: 'address'
+5,3584685,Aman,",DFDF,DSFF",BNK,2132433,test122,ELITE,2020-01-01,Affected columns: 'address'

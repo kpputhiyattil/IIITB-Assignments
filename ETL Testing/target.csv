@@ -1,0 +1,23 @@
+,customer_id,customer_name,addresss,banking_type_dc,account_number,joint_holder,account_type,time_key
+21,3584699,Abin      ,"ASDS,EWWSD,DFDF                                   ",BNK       ,2132433,test1@@test2                                      ,ELITE     ,2020-01-01
+1,3584699,Abin      ,"ASDS,EWWSD,DFDF                                   ",BNK       ,1123445,test1@@test2                                      ,SAVINGS   ,2020-01-01
+19,3584699,Abin      ,"ASDS,EWWSD,DFDF                                   ",BNK       ,1123445,test1@@test2                                      ,CURRENT   ,2020-01-01
+3,3584699,Abin      ,"ASDS,EWWSD,DFDF                                   ",BNK       ,2132433,test1@@test2                                      ,CURRENT   ,2020-01-01
+15,3584699,Abin      ,"ASDS,EWWSD,DFDF                                   ",BNK       ,2132433,test1@@test2                                      ,CORPORATE ,2020-01-01
+13,3584699,Abin      ,"ASDS,EWWSD,DFDF                                   ",BNK       ,1123445,test1@@test2                                      ,ELITE     ,2020-01-01
+7,3584699,Abin      ,"ASDS,EWWSD,DFDF                                   ",BNK       ,1123445,test1@@test2                                      ,CORPORATE ,2020-01-01
+9,3584699,Abin      ,"ASDS,EWWSD,DFDF                                   ",BNK       ,2132433,test1@@test2                                      ,SAVINGS   ,2020-01-01
+18,3584692,Mathew    ,"AFAF,AFADF,GGG                                    ",BNK       ,1123445,test11@@test21@@test31                            ,CURRENT   ,2020-01-03
+12,3584692,Mathew    ,"AFAF,AFADF,GGG                                    ",BNK       ,1123445,test11@@test21@@test31                            ,ELITE     ,2020-01-03
+0,3584692,Mathew    ,"AFAF,AFADF,GGG                                    ",BNK       ,1123445,test11@@test21@@test31                            ,SAVINGS   ,2020-01-03
+6,3584692,Mathew    ,"AFAF,AFADF,GGG                                    ",BNK       ,1123445,test11@@test21@@test31                            ,CORPORATE ,2020-01-03
+4,3584692,Mathew    ,"AFAF,AFADF,GGG                                    ",BNK       ,2524646,test11@@test21@@test31                            ,ELITE     ,2020-01-01
+8,3584685,Aman      ,"DFDF,DSFF                                         ",BNK       ,2132433,test122                                           ,SAVINGS   ,2020-01-01
+14,3584685,Aman      ,"DFDF,DSFF                                         ",BNK       ,2132433,test122                                           ,CORPORATE ,2020-01-01
+2,3584685,Aman      ,"DFDF,DSFF                                         ",BNK       ,2132433,test122                                           ,CURRENT   ,2020-01-01
+20,3584685,Aman      ,"DFDF,DSFF                                         ",BNK       ,2132433,test122                                           ,ELITE     ,2020-01-01
+10,3584678,Anu       ,"ADAF,FDAF                                         ",BNK       ,2524643,test222                                           ,CURRENT   ,2020-01-04
+16,3584678,Anu       ,"ADAF,FDAF                                         ",BNK       ,2524643,test222                                           ,SAVINGS   ,2020-01-04
+5,3584671,Ananya    ,"AFDAF,ADFF,ER3F                                   ",BNK       ,1123445,test322                                           ,CORPORATE ,2020-01-01
+17,3584671,Ananya    ,"AFDAF,ADFF,ER3F                                   ",BNK       ,1123445,test322                                           ,CURRENT   ,2020-01-01
+11,3584671,Ananya    ,"AFDAF,ADFF,ER3F                                   ",BNK       ,1123445,test322                                           ,ELITE     ,2020-01-01
